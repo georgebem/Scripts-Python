@@ -12,7 +12,7 @@ from arcgis.geocoding import geocode
 #link do projeto no workforce do portal: https://noteimg415.img.local/arcgis/apps/workforce/#/projects/98c2751eb4e94b0ea29afd9dd4593eef/dispatch/assignments
 url = 'https://noteimg415.img.local/arcgis' #url do portal
 usuario = 'portal' #usuario do portal com privilegio de Dispatcher
-senha = 'Imagem123' #senha do Dispatcher
+senha = '*******' #senha do Dispatcher
 projetoId = '98c2751eb4e94b0ea29afd9dd4593eef' #id do projeto no workforce, ver link acima
 arquivoLog = 'D:\TEMP\log.txt' #arquivo de log. A pasta deve estar criada antes de rodar o programa. O arquivo é recriado a cada vez que o script roda
 arquivoCSV = 'D:\DADOS\SCRIPTS_PHYTON\WorkForce\dados.csv' #arquivo de dados, separado por ponto-e-virgufa, no formato abaixo
