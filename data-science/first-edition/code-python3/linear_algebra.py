@@ -122,3 +122,14 @@ def make_graph_dot_product_as_vector_projection(plt):
     plt.scatter(*zip(v,w,o),marker='.')
     plt.axis('equal')
     plt.show()
+
+if __name__ == "__main__":
+    print("Hello world!")
+    print (vector_add([1,2],[2,1]))
+    print(vector_subtract([3, 3], [2, 1]))
+    print(vector_sum([[1,1,1],[2,2,2],[3,3,3]]))
+    print(scalar_multiply(3,[1,2,3]))
+    print(dot([2,1],[1,3]))
+    print(sum_of_squares([1,2,3]))
+    print(magnitude([4,3]))
+    
