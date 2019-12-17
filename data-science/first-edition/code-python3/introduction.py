@@ -1,3 +1,4 @@
+# CAPITULO 1
 # at this stage in the book we haven't actually installed matplotlib,
 # comment this out if you need to
 from matplotlib import pyplot as plt
@@ -197,7 +198,7 @@ if __name__ == "__main__":
     print()
     print("######################")
     print("#")
-    print("# FINDING KEY CONNECTORS")
+    print("# FINDING KEY CONNECTORS!")
     print("#")
     print("######################")
     print()
